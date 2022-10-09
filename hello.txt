@@ -12,3 +12,4 @@ hello git!!!	master test
 hello git!!!	hot-fix test
 远程库修改 pull拉取
 2222222222  by lhc
+ssh免密登录成功
